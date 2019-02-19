@@ -4,3 +4,4 @@ Third line in private branch
 Fourth line
 fifth line
 sixth line
+seventh line
